@@ -6,4 +6,4 @@ bases:
 resources:
 - pre-sync-job.yaml
 - post-sync-job.yaml
-- sync-worfklow.yaml
+- sync-workflow.yaml
