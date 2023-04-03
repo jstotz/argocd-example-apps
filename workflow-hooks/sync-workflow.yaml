@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Workflow
 metadata:
-  generateName: dag-diamond-coinflip-
+  name: sync
   annotations:
     workflows.argoproj.io/description: |
       This is an example of coin flip defined as a DAG.
